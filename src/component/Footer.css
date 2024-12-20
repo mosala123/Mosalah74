@@ -1,0 +1,10 @@
+.footer{
+    font-family: PROJECTS;
+    padding-top: 20px ;
+    background-color: #000000;
+}
+.list-unstyled a{
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
+ }
